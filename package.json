@@ -1,0 +1,17 @@
+{
+  "name": "runtrack-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "engines": { "node": ">=9.11" },
+  "dependencies": {
+    "express": "4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "1.17.4"
+  }
+}
