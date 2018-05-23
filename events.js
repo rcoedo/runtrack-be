@@ -1,5 +1,6 @@
 const events = {
   1: {
+    id: 1,
     name: "Carrera 1",
     joined: false,
     coordinates: { lat: 43.365963, long: -8.404712 },
@@ -11,6 +12,7 @@ const events = {
     unit: "km",
   },
   2: {
+    id: 2,
     name: "Carrera 2",
     joined: false,
     coordinates: { lat: 43.370027, long: -8.415713 },
@@ -22,6 +24,7 @@ const events = {
     unit: "km",
   },
   3: {
+    id: 3,
     name: "Carrera 3",
     joined: false,
     coordinates: { lat: 43.343308, long: -8.405715 },
